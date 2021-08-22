@@ -32,3 +32,15 @@ O projeto consiste na resolução de exercicios de competição voltados aos con
 Para rodar as questões pode ser utilizado um compilador online de c++.
 
 Como por exemplo o do site: <https://www.onlinegdb.com/online_c++_compiler>
+
+## Apresentação
+
+O link da apresentação pode ser encontrado no seguinte link:
+
+<https://youtu.be/P9JtuwhE6YY>
+
+e também na pasta raiz com o nome:
+
+```
+./apresentacao.mp4
+```
